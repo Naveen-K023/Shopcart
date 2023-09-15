@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skkyal/Online-Shopping-Site.git"
+    "url": "https://github.com/Naveen-K023"
   },
   "author": "Shlok",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skkyal/Online-Shopping-Site/issues"
+    "url": "https://github.com/Naveen-K023"
   },
-  "homepage": "https://github.com/skkyal/Online-Shopping-Site#readme",
+  "homepage": "https://github.com/Naveen-K023",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
